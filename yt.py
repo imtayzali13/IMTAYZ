@@ -404,8 +404,6 @@ class Main:
 		os.system("clear")
 		print(logo)
 		print("")
-		print("\033[1;36m     UNSUSCRIBE KARNE WALON KA APROVEL URA DEYA JAIGA")
-		print("")
 		print("\033[1;32m [1] First You Subscribe Channel")
 		print("\033[1;33m [2] Exit")
 		print("")
