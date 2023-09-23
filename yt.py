@@ -1,4 +1,4 @@
-# imtayz-TRICKER-11E8226AFA-M4786== by Mardis (Tools By Kapten-Kaizo)
+# by Mardis (Tools By Kapten-Kaizo)
 # Time Succes decompile : 2022-05-22 23:34:12.924217
 W = '\033[97;1m'
 R = '\033[91;1m'
